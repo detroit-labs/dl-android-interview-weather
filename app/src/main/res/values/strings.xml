@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DL Weather</string>
+
+    <string name="current">Current</string>
+    <string name="forecast">Forecast</string>
+    <string name="get_weather">Get weather</string>
+    <string name="permission_denied_message">Location permission was not granted</string>
+</resources>
